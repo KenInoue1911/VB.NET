@@ -1,0 +1,10 @@
+C:\Inoue\Samlpe01\practice03\bin\Debug\practice03.exe.config
+C:\Inoue\Samlpe01\practice03\bin\Debug\practice03.exe
+C:\Inoue\Samlpe01\practice03\bin\Debug\practice03.pdb
+C:\Inoue\Samlpe01\practice03\bin\Debug\practice03.xml
+C:\Inoue\Samlpe01\practice03\obj\Debug\practice03.Resources.resources
+C:\Inoue\Samlpe01\practice03\obj\Debug\practice03.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\practice03\obj\Debug\practice03.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\practice03\obj\Debug\practice03.exe
+C:\Inoue\Samlpe01\practice03\obj\Debug\practice03.xml
+C:\Inoue\Samlpe01\practice03\obj\Debug\practice03.pdb
