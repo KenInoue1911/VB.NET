@@ -1,0 +1,10 @@
+C:\Inoue\VB.Net\合計金額\bin\Debug\合計金額.exe.config
+C:\Inoue\VB.Net\合計金額\bin\Debug\合計金額.exe
+C:\Inoue\VB.Net\合計金額\bin\Debug\合計金額.pdb
+C:\Inoue\VB.Net\合計金額\bin\Debug\合計金額.xml
+C:\Inoue\VB.Net\合計金額\obj\Debug\合計金額.Resources.resources
+C:\Inoue\VB.Net\合計金額\obj\Debug\合計金額.vbproj.GenerateResource.cache
+C:\Inoue\VB.Net\合計金額\obj\Debug\合計金額.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB.Net\合計金額\obj\Debug\合計金額.exe
+C:\Inoue\VB.Net\合計金額\obj\Debug\合計金額.xml
+C:\Inoue\VB.Net\合計金額\obj\Debug\合計金額.pdb
