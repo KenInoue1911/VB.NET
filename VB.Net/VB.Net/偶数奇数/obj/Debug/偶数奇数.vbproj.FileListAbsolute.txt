@@ -1,0 +1,10 @@
+C:\Inoue\VB.Net\偶数奇数\bin\Debug\偶数奇数.exe.config
+C:\Inoue\VB.Net\偶数奇数\bin\Debug\偶数奇数.exe
+C:\Inoue\VB.Net\偶数奇数\bin\Debug\偶数奇数.pdb
+C:\Inoue\VB.Net\偶数奇数\bin\Debug\偶数奇数.xml
+C:\Inoue\VB.Net\偶数奇数\obj\Debug\偶数奇数.Resources.resources
+C:\Inoue\VB.Net\偶数奇数\obj\Debug\偶数奇数.vbproj.GenerateResource.cache
+C:\Inoue\VB.Net\偶数奇数\obj\Debug\偶数奇数.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB.Net\偶数奇数\obj\Debug\偶数奇数.exe
+C:\Inoue\VB.Net\偶数奇数\obj\Debug\偶数奇数.xml
+C:\Inoue\VB.Net\偶数奇数\obj\Debug\偶数奇数.pdb

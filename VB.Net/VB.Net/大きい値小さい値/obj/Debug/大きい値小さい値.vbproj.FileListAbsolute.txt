@@ -1,0 +1,11 @@
+C:\Inoue\VB.Net\大きい値小さい値\bin\Debug\大きい値小さい値.exe.config
+C:\Inoue\VB.Net\大きい値小さい値\bin\Debug\大きい値小さい値.exe
+C:\Inoue\VB.Net\大きい値小さい値\bin\Debug\大きい値小さい値.pdb
+C:\Inoue\VB.Net\大きい値小さい値\bin\Debug\大きい値小さい値.xml
+C:\Inoue\VB.Net\大きい値小さい値\obj\Debug\大きい値小さい値.vbprojAssemblyReference.cache
+C:\Inoue\VB.Net\大きい値小さい値\obj\Debug\大きい値小さい値.Resources.resources
+C:\Inoue\VB.Net\大きい値小さい値\obj\Debug\大きい値小さい値.vbproj.GenerateResource.cache
+C:\Inoue\VB.Net\大きい値小さい値\obj\Debug\大きい値小さい値.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB.Net\大きい値小さい値\obj\Debug\大きい値小さい値.exe
+C:\Inoue\VB.Net\大きい値小さい値\obj\Debug\大きい値小さい値.xml
+C:\Inoue\VB.Net\大きい値小さい値\obj\Debug\大きい値小さい値.pdb

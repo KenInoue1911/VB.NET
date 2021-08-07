@@ -1,0 +1,10 @@
+C:\Inoue\VB.Net\身長は？\bin\Debug\身長は？.exe.config
+C:\Inoue\VB.Net\身長は？\bin\Debug\身長は？.exe
+C:\Inoue\VB.Net\身長は？\bin\Debug\身長は？.pdb
+C:\Inoue\VB.Net\身長は？\bin\Debug\身長は？.xml
+C:\Inoue\VB.Net\身長は？\obj\Debug\身長は_.Resources.resources
+C:\Inoue\VB.Net\身長は？\obj\Debug\身長は？.vbproj.GenerateResource.cache
+C:\Inoue\VB.Net\身長は？\obj\Debug\身長は？.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB.Net\身長は？\obj\Debug\身長は？.exe
+C:\Inoue\VB.Net\身長は？\obj\Debug\身長は？.xml
+C:\Inoue\VB.Net\身長は？\obj\Debug\身長は？.pdb

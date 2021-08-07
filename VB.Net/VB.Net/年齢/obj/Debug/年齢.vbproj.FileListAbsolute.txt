@@ -1,0 +1,10 @@
+C:\Inoue\VB.Net\年齢\bin\Debug\年齢.exe.config
+C:\Inoue\VB.Net\年齢\bin\Debug\年齢.exe
+C:\Inoue\VB.Net\年齢\bin\Debug\年齢.pdb
+C:\Inoue\VB.Net\年齢\bin\Debug\年齢.xml
+C:\Inoue\VB.Net\年齢\obj\Debug\年齢.Resources.resources
+C:\Inoue\VB.Net\年齢\obj\Debug\年齢.vbproj.GenerateResource.cache
+C:\Inoue\VB.Net\年齢\obj\Debug\年齢.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB.Net\年齢\obj\Debug\年齢.exe
+C:\Inoue\VB.Net\年齢\obj\Debug\年齢.xml
+C:\Inoue\VB.Net\年齢\obj\Debug\年齢.pdb

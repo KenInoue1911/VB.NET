@@ -1,0 +1,10 @@
+C:\Inoue\VB.Net\平均点と合計点\bin\Debug\平均点と合計点.exe.config
+C:\Inoue\VB.Net\平均点と合計点\bin\Debug\平均点と合計点.exe
+C:\Inoue\VB.Net\平均点と合計点\bin\Debug\平均点と合計点.pdb
+C:\Inoue\VB.Net\平均点と合計点\bin\Debug\平均点と合計点.xml
+C:\Inoue\VB.Net\平均点と合計点\obj\Debug\平均点と合計点.Resources.resources
+C:\Inoue\VB.Net\平均点と合計点\obj\Debug\平均点と合計点.vbproj.GenerateResource.cache
+C:\Inoue\VB.Net\平均点と合計点\obj\Debug\平均点と合計点.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB.Net\平均点と合計点\obj\Debug\平均点と合計点.exe
+C:\Inoue\VB.Net\平均点と合計点\obj\Debug\平均点と合計点.xml
+C:\Inoue\VB.Net\平均点と合計点\obj\Debug\平均点と合計点.pdb

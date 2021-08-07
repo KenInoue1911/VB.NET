@@ -1,0 +1,11 @@
+C:\Inoue\VB.Net\VB.Net\bin\Debug\VB.Net.exe.config
+C:\Inoue\VB.Net\VB.Net\bin\Debug\VB.Net.exe
+C:\Inoue\VB.Net\VB.Net\bin\Debug\VB.Net.pdb
+C:\Inoue\VB.Net\VB.Net\bin\Debug\VB.Net.xml
+C:\Inoue\VB.Net\VB.Net\obj\Debug\VB.Net.vbprojAssemblyReference.cache
+C:\Inoue\VB.Net\VB.Net\obj\Debug\VB.Net.Resources.resources
+C:\Inoue\VB.Net\VB.Net\obj\Debug\VB.Net.vbproj.GenerateResource.cache
+C:\Inoue\VB.Net\VB.Net\obj\Debug\VB.Net.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB.Net\VB.Net\obj\Debug\VB.Net.exe
+C:\Inoue\VB.Net\VB.Net\obj\Debug\VB.Net.xml
+C:\Inoue\VB.Net\VB.Net\obj\Debug\VB.Net.pdb
