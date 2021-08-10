@@ -1,0 +1,11 @@
+C:\Inoue\Samlpe01\Sample05\obj\Debug\Sample05.vbprojAssemblyReference.cache
+C:\Inoue\Samlpe01\Sample05\obj\Debug\Sample05.Resources.resources
+C:\Inoue\Samlpe01\Sample05\obj\Debug\Sample05.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Sample05\obj\Debug\Sample05.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Sample05\bin\Debug\Sample05.exe.config
+C:\Inoue\Samlpe01\Sample05\bin\Debug\Sample05.exe
+C:\Inoue\Samlpe01\Sample05\bin\Debug\Sample05.pdb
+C:\Inoue\Samlpe01\Sample05\bin\Debug\Sample05.xml
+C:\Inoue\Samlpe01\Sample05\obj\Debug\Sample05.exe
+C:\Inoue\Samlpe01\Sample05\obj\Debug\Sample05.xml
+C:\Inoue\Samlpe01\Sample05\obj\Debug\Sample05.pdb

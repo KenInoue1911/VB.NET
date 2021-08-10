@@ -1,0 +1,11 @@
+C:\Inoue\Samlpe01\Practice14\bin\Debug\Practice14.exe.config
+C:\Inoue\Samlpe01\Practice14\bin\Debug\Practice14.exe
+C:\Inoue\Samlpe01\Practice14\bin\Debug\Practice14.pdb
+C:\Inoue\Samlpe01\Practice14\bin\Debug\Practice14.xml
+C:\Inoue\Samlpe01\Practice14\obj\Debug\Practice14.vbprojAssemblyReference.cache
+C:\Inoue\Samlpe01\Practice14\obj\Debug\Practice14.Resources.resources
+C:\Inoue\Samlpe01\Practice14\obj\Debug\Practice14.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Practice14\obj\Debug\Practice14.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Practice14\obj\Debug\Practice14.exe
+C:\Inoue\Samlpe01\Practice14\obj\Debug\Practice14.xml
+C:\Inoue\Samlpe01\Practice14\obj\Debug\Practice14.pdb

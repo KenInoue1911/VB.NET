@@ -1,0 +1,10 @@
+C:\Inoue\Samlpe01\Practice11\bin\Debug\Practice11.exe.config
+C:\Inoue\Samlpe01\Practice11\bin\Debug\Practice11.exe
+C:\Inoue\Samlpe01\Practice11\bin\Debug\Practice11.pdb
+C:\Inoue\Samlpe01\Practice11\bin\Debug\Practice11.xml
+C:\Inoue\Samlpe01\Practice11\obj\Debug\Practice11.Resources.resources
+C:\Inoue\Samlpe01\Practice11\obj\Debug\Practice11.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Practice11\obj\Debug\Practice11.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Practice11\obj\Debug\Practice11.exe
+C:\Inoue\Samlpe01\Practice11\obj\Debug\Practice11.xml
+C:\Inoue\Samlpe01\Practice11\obj\Debug\Practice11.pdb

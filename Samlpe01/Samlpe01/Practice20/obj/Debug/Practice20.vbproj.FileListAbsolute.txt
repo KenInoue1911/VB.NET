@@ -1,0 +1,11 @@
+C:\Inoue\Samlpe01\Practice20\bin\Debug\Practice20.exe.config
+C:\Inoue\Samlpe01\Practice20\bin\Debug\Practice20.exe
+C:\Inoue\Samlpe01\Practice20\bin\Debug\Practice20.pdb
+C:\Inoue\Samlpe01\Practice20\bin\Debug\Practice20.xml
+C:\Inoue\Samlpe01\Practice20\obj\Debug\Practice20.vbprojAssemblyReference.cache
+C:\Inoue\Samlpe01\Practice20\obj\Debug\Practice20.Resources.resources
+C:\Inoue\Samlpe01\Practice20\obj\Debug\Practice20.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Practice20\obj\Debug\Practice20.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Practice20\obj\Debug\Practice20.exe
+C:\Inoue\Samlpe01\Practice20\obj\Debug\Practice20.xml
+C:\Inoue\Samlpe01\Practice20\obj\Debug\Practice20.pdb
