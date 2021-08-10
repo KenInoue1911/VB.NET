@@ -1,0 +1,11 @@
+C:\Inoue\Samlpe01\Samlpe01\bin\Debug\Samlpe01.exe.config
+C:\Inoue\Samlpe01\Samlpe01\bin\Debug\Samlpe01.exe
+C:\Inoue\Samlpe01\Samlpe01\bin\Debug\Samlpe01.pdb
+C:\Inoue\Samlpe01\Samlpe01\bin\Debug\Samlpe01.xml
+C:\Inoue\Samlpe01\Samlpe01\obj\Debug\Samlpe01.vbprojAssemblyReference.cache
+C:\Inoue\Samlpe01\Samlpe01\obj\Debug\Samlpe01.Resources.resources
+C:\Inoue\Samlpe01\Samlpe01\obj\Debug\Samlpe01.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Samlpe01\obj\Debug\Samlpe01.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Samlpe01\obj\Debug\Samlpe01.exe
+C:\Inoue\Samlpe01\Samlpe01\obj\Debug\Samlpe01.xml
+C:\Inoue\Samlpe01\Samlpe01\obj\Debug\Samlpe01.pdb

@@ -1,0 +1,10 @@
+C:\Inoue\Samlpe01\Sample12\bin\Debug\Sample12.exe.config
+C:\Inoue\Samlpe01\Sample12\bin\Debug\Sample12.exe
+C:\Inoue\Samlpe01\Sample12\bin\Debug\Sample12.pdb
+C:\Inoue\Samlpe01\Sample12\bin\Debug\Sample12.xml
+C:\Inoue\Samlpe01\Sample12\obj\Debug\Sample12.Resources.resources
+C:\Inoue\Samlpe01\Sample12\obj\Debug\Sample12.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Sample12\obj\Debug\Sample12.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Sample12\obj\Debug\Sample12.exe
+C:\Inoue\Samlpe01\Sample12\obj\Debug\Sample12.xml
+C:\Inoue\Samlpe01\Sample12\obj\Debug\Sample12.pdb

@@ -1,0 +1,11 @@
+C:\Inoue\Samlpe01\Sample19\bin\Debug\Sample19.exe.config
+C:\Inoue\Samlpe01\Sample19\bin\Debug\Sample19.exe
+C:\Inoue\Samlpe01\Sample19\bin\Debug\Sample19.pdb
+C:\Inoue\Samlpe01\Sample19\bin\Debug\Sample19.xml
+C:\Inoue\Samlpe01\Sample19\obj\Debug\Sample19.vbprojAssemblyReference.cache
+C:\Inoue\Samlpe01\Sample19\obj\Debug\Sample19.Resources.resources
+C:\Inoue\Samlpe01\Sample19\obj\Debug\Sample19.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Sample19\obj\Debug\Sample19.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Sample19\obj\Debug\Sample19.exe
+C:\Inoue\Samlpe01\Sample19\obj\Debug\Sample19.xml
+C:\Inoue\Samlpe01\Sample19\obj\Debug\Sample19.pdb

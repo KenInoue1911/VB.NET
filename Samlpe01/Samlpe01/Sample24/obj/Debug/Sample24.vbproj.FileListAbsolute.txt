@@ -1,0 +1,11 @@
+C:\Inoue\Samlpe01\Sample24\obj\Debug\Sample24.vbprojAssemblyReference.cache
+C:\Inoue\Samlpe01\Sample24\obj\Debug\Sample24.Resources.resources
+C:\Inoue\Samlpe01\Sample24\obj\Debug\Sample24.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Sample24\obj\Debug\Sample24.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Sample24\bin\Debug\Sample24.exe.config
+C:\Inoue\Samlpe01\Sample24\bin\Debug\Sample24.exe
+C:\Inoue\Samlpe01\Sample24\bin\Debug\Sample24.pdb
+C:\Inoue\Samlpe01\Sample24\bin\Debug\Sample24.xml
+C:\Inoue\Samlpe01\Sample24\obj\Debug\Sample24.exe
+C:\Inoue\Samlpe01\Sample24\obj\Debug\Sample24.xml
+C:\Inoue\Samlpe01\Sample24\obj\Debug\Sample24.pdb

@@ -1,0 +1,11 @@
+C:\Inoue\Samlpe01\Sample08\bin\Debug\Sample08.exe.config
+C:\Inoue\Samlpe01\Sample08\bin\Debug\Sample08.exe
+C:\Inoue\Samlpe01\Sample08\bin\Debug\Sample08.pdb
+C:\Inoue\Samlpe01\Sample08\bin\Debug\Sample08.xml
+C:\Inoue\Samlpe01\Sample08\obj\Debug\Sample08.vbprojAssemblyReference.cache
+C:\Inoue\Samlpe01\Sample08\obj\Debug\Sample08.Resources.resources
+C:\Inoue\Samlpe01\Sample08\obj\Debug\Sample08.vbproj.GenerateResource.cache
+C:\Inoue\Samlpe01\Sample08\obj\Debug\Sample08.vbproj.CoreCompileInputs.cache
+C:\Inoue\Samlpe01\Sample08\obj\Debug\Sample08.exe
+C:\Inoue\Samlpe01\Sample08\obj\Debug\Sample08.xml
+C:\Inoue\Samlpe01\Sample08\obj\Debug\Sample08.pdb
