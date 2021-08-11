@@ -1,0 +1,12 @@
+C:\Inoue\VB_Basic_Form\FA\bin\Debug\FA.exe.config
+C:\Inoue\VB_Basic_Form\FA\bin\Debug\FA.exe
+C:\Inoue\VB_Basic_Form\FA\bin\Debug\FA.pdb
+C:\Inoue\VB_Basic_Form\FA\bin\Debug\FA.xml
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.vbprojAssemblyReference.cache
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.Form1.resources
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.Resources.resources
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.vbproj.GenerateResource.cache
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.exe
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.xml
+C:\Inoue\VB_Basic_Form\FA\obj\Debug\FA.pdb

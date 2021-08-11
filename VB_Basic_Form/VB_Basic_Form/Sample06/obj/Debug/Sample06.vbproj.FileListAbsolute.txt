@@ -1,0 +1,12 @@
+C:\Inoue\VB_Basic_Form\Sample06\bin\Debug\Sample06.exe.config
+C:\Inoue\VB_Basic_Form\Sample06\bin\Debug\Sample06.exe
+C:\Inoue\VB_Basic_Form\Sample06\bin\Debug\Sample06.pdb
+C:\Inoue\VB_Basic_Form\Sample06\bin\Debug\Sample06.xml
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.vbprojAssemblyReference.cache
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.Form1.resources
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.Resources.resources
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.vbproj.GenerateResource.cache
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.exe
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.xml
+C:\Inoue\VB_Basic_Form\Sample06\obj\Debug\Sample06.pdb

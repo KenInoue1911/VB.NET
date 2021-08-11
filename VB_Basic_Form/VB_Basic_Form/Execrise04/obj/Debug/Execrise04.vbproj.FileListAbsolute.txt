@@ -1,0 +1,12 @@
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.Form1.resources
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.Resources.resources
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.vbproj.GenerateResource.cache
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB_Basic_Form\Execrise04\bin\Debug\Execrise04.exe.config
+C:\Inoue\VB_Basic_Form\Execrise04\bin\Debug\Execrise04.exe
+C:\Inoue\VB_Basic_Form\Execrise04\bin\Debug\Execrise04.pdb
+C:\Inoue\VB_Basic_Form\Execrise04\bin\Debug\Execrise04.xml
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.exe
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.xml
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.pdb
+C:\Inoue\VB_Basic_Form\Execrise04\obj\Debug\Execrise04.vbprojAssemblyReference.cache
