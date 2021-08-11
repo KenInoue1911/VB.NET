@@ -1,0 +1,11 @@
+C:\Inoue\VB_Basic_Form\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Inoue\VB_Basic_Form\Exercise03\bin\Debug\Exercise03.exe
+C:\Inoue\VB_Basic_Form\Exercise03\bin\Debug\Exercise03.pdb
+C:\Inoue\VB_Basic_Form\Exercise03\bin\Debug\Exercise03.xml
+C:\Inoue\VB_Basic_Form\Exercise03\obj\Debug\Exercise03.Form1.resources
+C:\Inoue\VB_Basic_Form\Exercise03\obj\Debug\Exercise03.Resources.resources
+C:\Inoue\VB_Basic_Form\Exercise03\obj\Debug\Exercise03.vbproj.GenerateResource.cache
+C:\Inoue\VB_Basic_Form\Exercise03\obj\Debug\Exercise03.vbproj.CoreCompileInputs.cache
+C:\Inoue\VB_Basic_Form\Exercise03\obj\Debug\Exercise03.exe
+C:\Inoue\VB_Basic_Form\Exercise03\obj\Debug\Exercise03.xml
+C:\Inoue\VB_Basic_Form\Exercise03\obj\Debug\Exercise03.pdb
